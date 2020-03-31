@@ -1,0 +1,4 @@
+this setobjecttexture [0, "vtol1.paa"];
+this setobjecttexture [1, "vtol2.paa"]; 
+this setobjecttexture [2, "vtol3.paa"]; 
+this setobjecttexture [3, "vtol4.paa"];

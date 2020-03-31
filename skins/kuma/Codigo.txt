@@ -1,0 +1,3 @@
+this setobjecttexture [0, "kuma1.paa"];
+this setobjecttexture [1, "kuma2.paa"]; 
+this setobjecttexture [2, "kuma3.paa"];

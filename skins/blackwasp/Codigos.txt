@@ -1,0 +1,2 @@
+this setobjecttexture [0, "wasp.paa"];
+this setobjecttexture [1, "wasp2.paa"];

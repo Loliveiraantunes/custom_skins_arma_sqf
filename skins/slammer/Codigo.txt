@@ -1,0 +1,3 @@
+this setobjecttexture [0, "slambodybk.paa"];
+this setobjecttexture [1, "slamtorre10.paa"];
+this setobjecttexture [2, "slamchapabk.paa"];

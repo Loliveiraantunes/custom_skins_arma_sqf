@@ -1,0 +1,2 @@
+this setobjecttexture [0, "ifr.paa"];
+this setobjecttexture [1, "ifr2.paa"];

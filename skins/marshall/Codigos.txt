@@ -1,0 +1,3 @@
+this setobjecttexture [0, "BBASEAMV7.jpeg"];
+this setobjecttexture [1, "Rrodasamv7.jpeg"];
+this setobjecttexture [2, "Ttorreamv7.jpeg"];
